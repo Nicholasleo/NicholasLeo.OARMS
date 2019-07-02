@@ -1,0 +1,2 @@
+# NicholasLeo.OARMS
+在线订货补货管理系统，基于nopCommerce系统架构开发后台，系统管理界面使用ExtJs实现，移动应用使用Flutter进行跨平台开发应用APP
